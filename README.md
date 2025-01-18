@@ -1,10 +1,10 @@
 ![logo](https://github.com/XRiya/XRiya/blob/main/Banner.png)
 <h1 align="center">Hi , I'm Riya Maurya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 <img align="right" alt="code"  width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **DSA and Web framework**
+- 🌱 I’m currently Playing with **Raw Data**
 
 - 📫 How to reach me **riyamaurya2256@gmail.com**
 
