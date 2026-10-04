@@ -1,23 +1,105 @@
-![logo](https://github.com/XRiya/XRiya/blob/main/Banner.png)
-<h1 align="center">Hi , I'm Riya Maurya</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+![Banner](https://github.com/XRiya/XRiya/blob/main/Banner.png)
 
-<img align="right" alt="code"  width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<h1 align="center">Hi 👋, I'm Riya Maurya</h1>
 
-- 🌱 I’m currently Playing with **Raw Data**
+<h3 align="center">QEA Tester | Veeva CRM | Manual Testing | Playwright Automation</h3>
 
-- 📫 How to reach me **riyamaurya2256@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riya-maurya-4b8005219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riya-maurya-4b8005219/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/riya_20scse10101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/riya_20scse10101" height="30" width="40" /></a>
+<p align="center">
+  Quality Engineer focused on building reliable, maintainable, and scalable test automation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xriya&show_icons=true&locale=en&layout=compact" alt="xriya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xriya&show_icons=true&locale=en" alt="xriya" /></p>
+### 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xriya&" alt="xriya" /></p>
+* 🔍 Currently working as a **QEA Tester**
+* 💼 Working with **Veeva CRM** in the Life Sciences domain
+* 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing & Test Case Design**
+* 🎭 Currently learning and working with **Playwright** for test automation
+* 🔌 Exploring **API Testing** and REST APIs
+* 🌱 Continuously improving my **QA Automation & Quality Engineering** skills
+* 💡 Interested in building reliable and maintainable automated test frameworks
+
+---
+
+### 🛠️ Skills & Tools
+
+#### Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional%20Testing-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression%20Testing-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-2C3E50?style=for-the-badge" />
+</p>
+
+#### Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### API & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+#### Domain
+
+<p>
+  <img src="https://img.shields.io/badge/Veeva%20CRM-005CB9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Life%20Sciences-4A5568?style=for-the-badge" />
+</p>
+
+---
+
+### 🧪 What I'm Working On
+
+* 🎭 Building UI automation frameworks using **Playwright**
+* 🔌 Learning and practicing **API testing**
+* 🧩 Improving test automation using **Page Object Model**
+* 📊 Creating maintainable and reusable test cases
+* 🔄 Exploring **CI/CD integration** for automated testing
+
+---
+
+### 📚 Currently Learning
+
+* Playwright Automation
+* TypeScript
+* API Testing with Postman
+* REST APIs
+* Test Automation Framework Design
+* CI/CD for QA Automation
+* Vault CRM fundamentals
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/riya-maurya-4b8005219/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xriya&show_icons=true&locale=en&layout=compact" alt="xriya" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=xriya&show_icons=true&locale=en" alt="xriya" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xriya" alt="xriya" />
+</p>
