@@ -1,5 +1,3 @@
-![Banner](https://github.com/XRiya/XRiya/blob/main/Banner.png)
-
 <h1 align="center">Hi 👋, I'm Riya Maurya</h1>
 
 <h3 align="center">QEA Tester | Veeva CRM | Manual Testing | Playwright Automation</h3>
@@ -88,18 +86,3 @@
 </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xriya&show_icons=true&locale=en&layout=compact" alt="xriya" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xriya&show_icons=true&locale=en" alt="xriya" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xriya" alt="xriya" />
-</p>
